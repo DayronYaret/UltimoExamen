@@ -6,5 +6,5 @@ import es.ulpgc.dayron.ultimoexamen.app.CountItem;
 
 public class PrincipalViewModel {
 
-public List<CountItem> items; // Array de items
+public List<CountItem> items;
 }
