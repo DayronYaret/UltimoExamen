@@ -36,6 +36,6 @@ public class AppMediator extends Application {
   }
 
   public void setItem(CountItem item) {
-    this.item = item;
+    this.item = item; //prueba
   }
 }
